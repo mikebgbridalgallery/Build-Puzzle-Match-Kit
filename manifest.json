@@ -1,14 +1,14 @@
 {
-  "description": "We're yours to command",
+  "description": "Puzzle Match Kit",
   "display": "fullscreen",
   "icons": [
     {
-      "src": "TemplateData/favicon.ico",
+      "src": "TemplateData/img/favicon.ico?v=1.0b0",
       "sizes": "256x256",
       "type": "image/png"
     }
   ],
-  "name": "Murasaki7",
+  "name": "Puzzle Match Kit",
   "start_url": "index.html",
-  "short_name": "M7"  
+  "short_name": "PuzzleMatch"  
 }
